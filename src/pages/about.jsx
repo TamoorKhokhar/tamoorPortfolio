@@ -1,4 +1,4 @@
 function AboutPage() {
-  return <>hello Tamoor</>;
+  return <>hello Tamoor khokhar</>;
 }
 export default AboutPage;
