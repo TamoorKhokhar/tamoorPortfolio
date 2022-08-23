@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.MuiDrawer-paper {
+  width: 30% !important;
+  background-color: #F2F2F2 !important;
+  }
+@media (min-width: 100px) and (max-width: 900px) {
+  .hideHeaderTextabout{
+  display: none  !important;
+  }
+  .hideHeaderTextProjects{
+    display: none  !important;
+    }
+    .hideHeaderTextresume{
+      display: none  !important;
+      }
+}
+@media (min-width: 900px) and (max-width: 4000px) {
+  .hideHeadericon{
+    display: none !important;
+  }
+}
