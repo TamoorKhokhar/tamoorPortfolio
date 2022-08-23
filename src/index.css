@@ -13,7 +13,7 @@ code {
 }
 .MuiDrawer-paper {
   width: 30% !important;
-  background-color: #CDBE78 !important;
+  background-color: #F2F2F2 !important;
   }
 @media (min-width: 100px) and (max-width: 900px) {
   .hideHeaderTextabout{
